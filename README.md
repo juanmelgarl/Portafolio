@@ -8,29 +8,29 @@ Aquí encontrarás aplicaciones de escritorio (**WinForms**) y servicios **API R
 
 ## 🖥️ Aplicaciones WinForms
 
-- [APP-PARA-TAREAS](https://github.com/juanmelgar1/APP-PARA-TAREAS)  
+- [APP-PARA-TAREAS](https://github.com/juanmelgarl/APP-PARA-TAREAS)  
   Gestor de tareas con CRUD, DataGridView, LINQ, FlowLayoutPanel y exportación a JSON.
 
-- [CrudParaCalcularSalario](https://github.com/juanmelgar1/CrudParaCalcularSalario)  
-  Aplicación para calcular salarios con lógica de negocio separada y arquitectura en capas.
+- [CrudParaCalcularSalario](https://github.com/juanmelgarl/CrudParaCalcularSalario)  
+  Aplicación para calcular salarios con lógica 
 
-- [POOAVANZADO](https://github.com/juanmelgar1/POOAVANZADO)  
-  Ejercicios avanzados de Programación Orientada a Objetos en WinForms.
+- [POOAVANZADO](https://github.com/juanmelgarl/POOAVANZADO)  
+  Ejercicios avanzados de Programación Orientada a Objetos
 
-- [POO-C-](https://github.com/juanmelgar1/POO-C-)  
+- [POO-C-](https://github.com/juanmelgarl/POO-C-)  
   Prácticas de POO en C#, con enfoque en encapsulamiento y herencia.
 
 ---
 
 ## 🌐 APIs REST
 
-- [2025.gotapi](https://github.com/juanmelgar1/2025.gotapi)  
+- [2025.gotapi](https://github.com/juanmelgarl/2025.gotapi)  
   API REST para gestión de tareas con EF Core, DTOs y arquitectura limpia.
 
-- [MercadoApi](https://github.com/juanmelgar1/MercadoApi)  
+- [MercadoApi]([https://github.com/juanmelgarl/MercadoApi)  
   API para productos de mercado, con endpoints CRUD y validaciones.
 
-- [GestionmedicaAPI](https://github.com/juanmelgar1/GestionmedicaAPI)  
+- [GestionmedicaAPI](https://github.com/juanmelgarl/GestionmedicaAPI)  
   API para gestión médica, con entidades relacionadas y consultas LINQ.
 
 - [GotSeries.Api](https://github.com/juanmelgar1/GotSeries.Api)  
@@ -40,8 +40,8 @@ Aquí encontrarás aplicaciones de escritorio (**WinForms**) y servicios **API R
 
 ## 🧠 Lógica y práctica
 
-- [practice-logic-c-](https://github.com/juanmelgar1/practice-logic-c-)  
-  Ejercicios de lógica en C#, ideales para entrevistas y práctica de algoritmos.
+- [practice-logic-c-](https://github.com/juanmelgarl/practice-logic-c-)  
+  Ejercicios de lógica en C#
 
 ---
 
