@@ -1,5 +1,4 @@
-# Portafolio
-Portafolio de proyectos en C#/.NET: WinForms, API REST, WPF,EF Core, LINQ y arquitectura en capas.
+
 # Portafolio de Proyectos - Juan Melgar
 
 Bienvenido a mi portafolio de proyectos en **C# y .NET**.  
