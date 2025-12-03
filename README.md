@@ -1,3 +1,5 @@
+Soy desarrollador .NET full stack, con experiencia construyendo aplicaciones WinForms,Wpf, APIs REST, con buenas prácticas, arquitectura en capas,y poo Intermedio sumado a  EF Core,Sql server. Me enfoco en crear soluciones limpias, escalables y fáciles de mantener.
+Utilizo Github,Y postman.
 
 # Portafolio de Proyectos - Juan Melgar
 
