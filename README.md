@@ -8,7 +8,7 @@ Aquí encontrarás aplicaciones de escritorio (**WinForms**) y servicios **API R
 
 ---
 
-## 🖥️ Aplicaciones WinForms
+##  Aplicaciones WinForms
 
 - [APP-PARA-TAREAS](https://github.com/juanmelgarl/APP-PARA-TAREAS)  
   Gestor de tareas con CRUD, DataGridView, LINQ, FlowLayoutPanel y exportación a JSON.
@@ -24,7 +24,7 @@ Aquí encontrarás aplicaciones de escritorio (**WinForms**) y servicios **API R
 
 ---
 
-## 🌐 APIs REST
+##  APIs REST
 
 - [2025.gotapi](https://github.com/juanmelgarl/2025.gotapi)  
   API REST para gestión de tareas con EF Core, DTOs y arquitectura limpia.
@@ -40,21 +40,21 @@ Aquí encontrarás aplicaciones de escritorio (**WinForms**) y servicios **API R
 
 ---
 
-## 🧠 Lógica y práctica
+##  Lógica y práctica
 
 - [practice-logic-c-](https://github.com/juanmelgarl/practice-logic-c-)  
   Ejercicios de lógica en C#
 
 ---
 
-## 📂 Portafolio general
+##  Portafolio general
 
 - [Portafolio](https://github.com/juanmelgar1/Portafolio)  
   Este repositorio índice reúne todos mis proyectos públicos en GitHub.
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 - C# / .NET
 - WinForms
@@ -67,12 +67,18 @@ Aquí encontrarás aplicaciones de escritorio (**WinForms**) y servicios **API R
 
 ---
 
-## 📸 Capturas
+##  Capturas
+<img width="1277" height="648" alt="image" src="https://github.com/user-attachments/assets/92dec513-4b17-48e4-910c-59aa0e28fb7e" />
+<img width="1120" height="468" alt="image" src="https://github.com/user-attachments/assets/adcd5554-d531-4de1-a5e2-218a2df290d2" />
+<img width="1268" height="696" alt="image" src="https://github.com/user-attachments/assets/b817dfa0-d62a-450e-b456-fab3c230fdaf" />
+
+<img width="1223" height="533" alt="image" src="https://github.com/user-attachments/assets/35043a94-647f-4759-ae7f-e50f3b5524a3" />
+
 
 
 ---
 
-## 📬 Contacto
+##  Contacto
 
 Podés escribirme a:  
 📧 **juanmelgar861@gmail.com**  o A mi numero de telefono: +543532418153
