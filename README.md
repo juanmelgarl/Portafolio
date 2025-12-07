@@ -17,7 +17,7 @@ Aquí encontrarás aplicaciones de escritorio (**WinForms**) y servicios **API R
   Aplicación para calcular salarios con lógica 
 
 - [POOAVANZADO](https://github.com/juanmelgarl/POOAVANZADO)  
-  Ejercicios avanzados de Programación Orientada a Objetos
+  Ejercicio avanzados de Programación Orientada a Objetos
 
 - [POO-C-](https://github.com/juanmelgarl/POO-C-)  
   Prácticas de POO en C#, con enfoque en encapsulamiento y herencia.
